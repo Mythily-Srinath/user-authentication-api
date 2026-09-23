@@ -37,3 +37,11 @@ server.js
 .env
 .gitignore
 README.md
+
+## Live API
+
+https://user-authentication-api-wsis.onrender.com
+
+## Postman Documentation
+
+Postman Documentation: https://documenter.getpostman.com/view/58048237/2sBYB2r7tR
